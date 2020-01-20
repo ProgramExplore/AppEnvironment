@@ -9,8 +9,9 @@
 // Configuration settings file format documentation can be found at:
 // https://help.apple.com/xcode/#/dev745c5c974
 
+// 因为使用了 Pods, 所以需要将 Pods 生成的配置文件包含进来. 如果不使用 Pods, 可以去去掉这一行。
 #include "./Pods/Target Support Files/Pods-AppEnvironment/Pods-AppEnvironment.release-development.xcconfig"
 
 APP_NAME = App环境(开发)
-PRODUCT_BUNDLE_IDENTIFIER = me.evanxlh.environment.development
+APP_BUNDLE_ID = me.evanxlh.environment.development
 CONFIGRATION_PLIST_FILENAME = Development

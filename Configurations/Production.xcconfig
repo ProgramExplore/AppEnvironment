@@ -12,5 +12,5 @@
 #include "./Pods/Target Support Files/Pods-AppEnvironment/Pods-AppEnvironment.release-production.xcconfig"
 
 APP_NAME = App环境(产品)
-PRODUCT_BUNDLE_IDENTIFIER = me.evanxlh.environment.production
+APP_BUNDLE_ID = me.evanxlh.environment.production
 CONFIGRATION_PLIST_FILENAME = Production

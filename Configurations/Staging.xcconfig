@@ -12,5 +12,5 @@
 #include "./Pods/Target Support Files/Pods-AppEnvironment/Pods-AppEnvironment.release-staging.xcconfig"
 
 APP_NAME = App环境(内测)
-PRODUCT_BUNDLE_IDENTIFIER = me.evanxlh.environment.staging
+APP_BUNDLE_ID = me.evanxlh.environment.staging
 CONFIGRATION_PLIST_FILENAME = Staging
