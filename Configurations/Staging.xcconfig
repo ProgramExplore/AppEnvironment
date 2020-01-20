@@ -1,0 +1,16 @@
+//
+//  Staging.xcconfig
+//  AppEnvironment
+//
+//  Created by Evan Xie on 2020/1/20.
+//  Copyright © 2020 Evan Xie. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "./Pods/Target Support Files/Pods-AppEnvironment/Pods-AppEnvironment.release-staging.xcconfig"
+
+APP_NAME = App环境(内测)
+PRODUCT_BUNDLE_IDENTIFIER = me.evanxlh.environment.staging
+CONFIGRATION_PLIST_FILENAME = Staging
